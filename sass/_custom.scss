@@ -1,0 +1,21 @@
+//import your font
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,800,900&display=swap');
+
+
+//General Formatting
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    height: 100%;
+    //width: 100vw;
+    //background: #000 url('../img/bg.png') no-repeat right top fixed;
+    //-webkit-background-size: cover;
+    //-moz-background-size: cover;
+    //background-size: cover;
+    //-o-background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito', sans-serif;
+    //letter-spacing: 0.22em;
+    font-weight: bolder;
+}
